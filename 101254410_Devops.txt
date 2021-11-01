@@ -13,3 +13,10 @@ Devops Responsibilities:
 - Configuration. ...
 - Release. ...
 - Service Level Objectives.
+
+
+		Annual Salary	Monthly Pay
+Top Earners	$172,500	$14,375
+75th Percentile	$151,000	$12,583
+Average		$131,347	$10,945
+25th Percentile	$114,500	$9,541
